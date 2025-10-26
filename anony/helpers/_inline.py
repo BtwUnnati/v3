@@ -145,7 +145,7 @@ class Inline:
             rows += [
                 [
                     self.ikb(
-                        text=lang["Toxic"],
+                        text=lang["source"],
                         url="https://t.me/ToxicTechz",
                     )
                 ]
